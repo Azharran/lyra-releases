@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "channel": "stable",
+  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.1.0/lyra-0.1.0.zip",
+  "sha256": "38bb040ab91bf136c5a8bd6b53a5609b859a6fd785fedcdc73c69bb2d7889e56",
+  "size": 153533774,
+  "mandatory": false,
+  "min_version_required": "0.1.0",
+  "schema_version": 1,
+  "release_notes": [
+    "Premiere version publique de LYRA (v0.1)"
+  ],
+  "published_at": "2026-08-22T05:29:06Z"
+}
