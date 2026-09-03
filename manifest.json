@@ -1,21 +1,14 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "channel": "stable",
-  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.2.0/lyra-0.2.0.zip",
-  "sha256": "2e472a7d76b7a9ed407f9087844b12cf7e50e92b16be2b89f5f68434bfca5aad",
+  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.2.1/lyra-0.2.1.zip",
+  "sha256": "274fdfa1209991e0e182d563d9c11055c4ed3be00301dd8eab2cccf1406b770a",
   "size": 154872189,
   "mandatory": false,
   "min_version_required": "0.1.0",
   "schema_version": 1,
   "release_notes": [
-    "Maquettes 3D des vaisseaux dans l'onglet Flotte",
-    "Ceinture d'Aaron : LYRA calcule ou couper le quantum",
-    "Macros : protocoles de demarrage/extinction, ravitaillement, trace de route",
-    "Panneau de controle repense (pywebview)",
-    "Sequence d'initialisation au premier lancement",
-    "Suivi de reputation par faction",
-    "Inventaire : qualite des minerais, quantites en cSCU, deplacement de stock",
-    "Nombreuses corrections de reconnaissance vocale"
+    "Installeur : detection de Python qui resiste a l'alias d'execution Microsoft Store (lanceur py teste avant python, rafraichissement de PATH casse supprime, code retour winget ignore)"
   ],
-  "published_at": "2026-09-03T17:15:23Z"
+  "published_at": "2026-09-03T19:17:01Z"
 }
