@@ -1,14 +1,18 @@
 {
-  "version": "0.2.1",
+  "version": "0.3.0",
   "channel": "stable",
-  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.2.1/lyra-0.2.1.zip",
-  "sha256": "274fdfa1209991e0e182d563d9c11055c4ed3be00301dd8eab2cccf1406b770a",
-  "size": 154872189,
+  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.3.0/lyra-0.3.0.zip",
+  "sha256": "1b115316f549e02bc6419ddf669d2d0e781af32e7e394025fb6b72f6fcc2e008",
+  "size": 176088834,
   "mandatory": false,
   "min_version_required": "0.1.0",
   "schema_version": 1,
   "release_notes": [
-    "Installeur : detection de Python qui resiste a l'alias d'execution Microsoft Store (lanceur py teste avant python, rafraichissement de PATH casse supprime, code retour winget ignore)"
+    "Voix : plus de fenêtre de terminal pendant que LYRA parle, et une seule voix quand ElevenLabs refuse la clé",
+    "Achats : medpen, boissons et nourriture reconnus à la voix (« medpen » ne devient plus « methane »)",
+    "Touches : casque corrigé (Alt+H), et bouton « Régénérer mon profil de touches LYRA » dans le panneau",
+    "Voix : « bascule en mode navigation / combat » reconnus",
+    "Installeur : les mises à jour automatiques sont enfin activées sur les installations neuves"
   ],
-  "published_at": "2026-09-03T19:17:01Z"
+  "published_at": "2026-09-11T15:29:18Z"
 }
