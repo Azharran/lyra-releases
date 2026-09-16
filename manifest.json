@@ -1,18 +1,17 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "channel": "stable",
-  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.3.0/lyra-0.3.0.zip",
-  "sha256": "1b115316f549e02bc6419ddf669d2d0e781af32e7e394025fb6b72f6fcc2e008",
-  "size": 176088834,
+  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.4.0/lyra-0.4.0.zip",
+  "sha256": "cec3ae4ecc014125748512dfa044dbb0f9ae8b172430306e01b3a590aaae66b3",
+  "size": 177867772,
   "mandatory": false,
   "min_version_required": "0.1.0",
   "schema_version": 1,
   "release_notes": [
-    "Voix : plus de fenêtre de terminal pendant que LYRA parle, et une seule voix quand ElevenLabs refuse la clé",
-    "Achats : medpen, boissons et nourriture reconnus à la voix (« medpen » ne devient plus « methane »)",
-    "Touches : casque corrigé (Alt+H), et bouton « Régénérer mon profil de touches LYRA » dans le panneau",
-    "Voix : « bascule en mode navigation / combat » reconnus",
-    "Installeur : les mises à jour automatiques sont enfin activées sur les installations neuves"
+    "Reconnaissance vocale locale (faster-whisper) par defaut",
+    "Carte NVIDIA detectee : acceleration CUDA",
+    "Dependances installees automatiquement apres une mise a jour",
+    "Calibrage de la voix"
   ],
-  "published_at": "2026-09-11T15:29:18Z"
+  "published_at": "2026-09-15T18:43:00Z"
 }
