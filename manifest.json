@@ -1,17 +1,14 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "channel": "stable",
-  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.4.0/lyra-0.4.0.zip",
-  "sha256": "cec3ae4ecc014125748512dfa044dbb0f9ae8b172430306e01b3a590aaae66b3",
-  "size": 177867772,
+  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.4.1/lyra-0.4.1.zip",
+  "sha256": "4c6b7ce30261c6a21b3adb3cea61f75286a7bff90ea2e991588aa6609fac8431",
+  "size": 177868403,
   "mandatory": false,
   "min_version_required": "0.1.0",
   "schema_version": 1,
   "release_notes": [
-    "Reconnaissance vocale locale (faster-whisper) par defaut",
-    "Carte NVIDIA detectee : acceleration CUDA",
-    "Dependances installees automatiquement apres une mise a jour",
-    "Calibrage de la voix"
+    "La ceinture d'Aaron est citée quand on demande où trouver un minerai"
   ],
-  "published_at": "2026-09-15T18:43:00Z"
+  "published_at": "2026-09-16T13:53:53Z"
 }
