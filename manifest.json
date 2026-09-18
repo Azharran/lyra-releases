@@ -1,14 +1,14 @@
 {
-  "version": "0.4.1",
+  "version": "0.4.2",
   "channel": "stable",
-  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.4.1/lyra-0.4.1.zip",
-  "sha256": "4c6b7ce30261c6a21b3adb3cea61f75286a7bff90ea2e991588aa6609fac8431",
-  "size": 177868403,
+  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.4.2/lyra-0.4.2.zip",
+  "sha256": "da490064e47bef3a54bb8b2a1e30f28675eee7c85584019ad17526269e6a73e0",
+  "size": 177870473,
   "mandatory": false,
   "min_version_required": "0.1.0",
   "schema_version": 1,
   "release_notes": [
-    "La ceinture d'Aaron est citée quand on demande où trouver un minerai"
+    "LYRA demarre de nouveau apres installation (fichier trouver_python.bat manquant en 0.4.0 et 0.4.1)"
   ],
-  "published_at": "2026-09-16T13:53:53Z"
+  "published_at": "2026-09-18T14:20:51Z"
 }
