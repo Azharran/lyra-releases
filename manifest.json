@@ -1,14 +1,16 @@
 {
-  "version": "0.4.2",
+  "version": "0.5.0",
   "channel": "stable",
-  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.4.2/lyra-0.4.2.zip",
-  "sha256": "da490064e47bef3a54bb8b2a1e30f28675eee7c85584019ad17526269e6a73e0",
-  "size": 177870473,
+  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.5.0/lyra-0.5.0.zip",
+  "sha256": "1cf048bbc1ca838ee0468eb6e084bf8e20ce751d69ec1002262ee2656275a56d",
+  "size": 178351244,
   "mandatory": false,
   "min_version_required": "0.1.0",
   "schema_version": 1,
   "release_notes": [
-    "LYRA demarre de nouveau apres installation (fichier trouver_python.bat manquant en 0.4.0 et 0.4.1)"
+    "Nouveau moteur vocal : toute la parole passe par Groq Whisper, les commandes sont mieux comprises",
+    "Onglet Missions : ou une mission est proposee et ou elle se joue",
+    "Donnees du jeu a jour"
   ],
-  "published_at": "2026-09-18T14:20:51Z"
+  "published_at": "2026-10-01T08:46:33Z"
 }
