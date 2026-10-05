@@ -1,16 +1,15 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "channel": "stable",
-  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.5.1/lyra-0.5.1.zip",
-  "sha256": "dce7b723c43f3811fbb2db281655368a484569bc9db2909a239c776823510395",
-  "size": 236803533,
+  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.5.2/lyra-0.5.2.zip",
+  "sha256": "58aa98d1418e361959c9975063648fe861090d16f9610047b47dbbbe4b1025c3",
+  "size": 236804361,
   "mandatory": false,
   "min_version_required": "0.1.0",
   "schema_version": 1,
   "release_notes": [
-    "Nouvelle voix de secours : LYRA parle avec sa propre voix Piper quand ElevenLabs n'est pas disponible",
-    "Prononciation corrigée pour la voix de secours (noms Star Citizen, médicaments, Serenity, Crusader...)",
-    "Une seule voix par session : ElevenLabs avec les voicelines, ou Piper partout"
+    "Nouvel onglet Documentation dans l'overlay étendu",
+    "Bouton « Tu as oublié les commandes ? » sur chaque onglet, qui ouvre la bonne section de la documentation"
   ],
-  "published_at": "2026-10-05T14:14:19Z"
+  "published_at": "2026-10-05T16:19:43Z"
 }
