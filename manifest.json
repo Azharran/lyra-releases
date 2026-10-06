@@ -1,15 +1,16 @@
 {
-  "version": "0.5.2",
+  "version": "0.5.3",
   "channel": "stable",
-  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.5.2/lyra-0.5.2.zip",
-  "sha256": "58aa98d1418e361959c9975063648fe861090d16f9610047b47dbbbe4b1025c3",
-  "size": 236804361,
+  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.5.3/lyra-0.5.3.zip",
+  "sha256": "67dfd5f52b644055d448b94813ee1e8b311cdae208e02a9f4c38da80ff228363",
+  "size": 236800499,
   "mandatory": false,
   "min_version_required": "0.1.0",
   "schema_version": 1,
   "release_notes": [
-    "Nouvel onglet Documentation dans l'overlay étendu",
-    "Bouton « Tu as oublié les commandes ? » sur chaque onglet, qui ouvre la bonne section de la documentation"
+    "Voix de secours Piper entraînée sur la voix de LYRA",
+    "Onglet Documentation et bouton « Tu as oublié les commandes ? »",
+    "Icône du raccourci recentrée"
   ],
-  "published_at": "2026-10-05T16:19:43Z"
+  "published_at": "2026-10-06T20:31:58Z"
 }
