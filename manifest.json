@@ -1,16 +1,24 @@
 {
-  "version": "0.5.3",
+  "version": "0.6.1",
   "channel": "stable",
-  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.5.3/lyra-0.5.3.zip",
-  "sha256": "67dfd5f52b644055d448b94813ee1e8b311cdae208e02a9f4c38da80ff228363",
-  "size": 236800499,
+  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.6.1/lyra-0.6.1.zip",
+  "sha256": "1162aae8333a54eade3c4a7186f0d031e3267830cfb4c3a5bf789964281b2b6a",
+  "size": 236866875,
   "mandatory": false,
   "min_version_required": "0.1.0",
   "schema_version": 1,
   "release_notes": [
-    "Voix de secours Piper entraînée sur la voix de LYRA",
-    "Onglet Documentation et bouton « Tu as oublié les commandes ? »",
-    "Icône du raccourci recentrée"
+    "Installateur .exe : Python et Tesseract embarqués, plus rien à installer à la main",
+    "Éditeur de touches Star Citizen dans le panneau de contrôle (catalogue complet des actions lu dans le jeu)",
+    "Bouton « Logs pour le support » : logs assainis (clés, chemins et pseudo masqués) à envoyer en cas de souci",
+    "Mise à jour automatique du runtime Python quand les dépendances changent",
+    "Onglet Lancement allégé : la mise à jour des données vit dans Données & mises à jour"
   ],
-  "published_at": "2026-10-06T20:31:58Z"
+  "published_at": "2026-10-07T16:55:24Z",
+  "runtime": {
+    "id": "py3.11.9-763eaf8fe64bd815",
+    "url": "https://github.com/Azharran/lyra-releases/releases/download/runtime-py3.11.9-763eaf8fe64bd815/lyra-runtime-py3.11.9-763eaf8fe64bd815.zip",
+    "sha256": "24e7606da6c50eb7b59932b155ec60d2981be9bf0dd1f9225ac7d88b6f72d379",
+    "size": 205150926
+  }
 }
