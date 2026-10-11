@@ -1,18 +1,21 @@
 {
-  "version": "0.6.2",
+  "version": "0.6.3",
   "channel": "stable",
-  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.6.2/lyra-0.6.2.zip",
-  "sha256": "9b96eb4cd0a93634bb4b171a8d159d1355842051d3c12dbb419a5720234dcf45",
-  "size": 236870832,
+  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.6.3/lyra-0.6.3.zip",
+  "sha256": "282fa8079e5792d11c8c0ed05eddc73b3e4c1ba4384a5656275092512bdb4d26",
+  "size": 236964370,
   "mandatory": false,
   "min_version_required": "0.1.0",
   "schema_version": 1,
   "release_notes": [
-    "Assistant de configuration au premier lancement du panneau : clés, pseudo, micro, touches, avec liens d'inscription",
-    "Fenêtre « Réactions de pilotage » : bilan des réactions prêtes et raison de celles qui ne partiront pas",
-    "Bouton « Relancer l'assistant » dans Données & mises à jour"
+    "Données du jeu à jour pour Star Citizen 4.10.2 (nouveaux vaisseaux, Constellation Mk IV et Mk V)",
+    "Nouvelle voix de secours hors ligne, nettement plus naturelle",
+    "« C'est quoi le Sovereign IP-10 ? » : fiche d'un composant de vaisseau à la voix",
+    "« Ferme l'overlay » ferme vraiment l'overlay, et « comment fabriquer… » donne la recette",
+    "Plus de réactions de pilotage quand tu es à pied ; une phrase d'attente quand la réponse tarde",
+    "Crafter un objet retire les matériaux de ton inventaire"
   ],
-  "published_at": "2026-10-07T21:46:34Z",
+  "published_at": "2026-10-11T21:10:44Z",
   "runtime": {
     "id": "py3.11.9-763eaf8fe64bd815",
     "url": "https://github.com/Azharran/lyra-releases/releases/download/runtime-py3.11.9-763eaf8fe64bd815/lyra-runtime-py3.11.9-763eaf8fe64bd815.zip",
