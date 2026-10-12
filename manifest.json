@@ -1,21 +1,19 @@
 {
-  "version": "0.6.3",
+  "version": "0.6.4",
   "channel": "stable",
-  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.6.3/lyra-0.6.3.zip",
-  "sha256": "282fa8079e5792d11c8c0ed05eddc73b3e4c1ba4384a5656275092512bdb4d26",
-  "size": 236964370,
+  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.6.4/lyra-0.6.4.zip",
+  "sha256": "f25b84003d2b52dd0aed4106f6b8641d391479b6be34cc01d3eb6ea1cf93ff7a",
+  "size": 237480955,
   "mandatory": false,
   "min_version_required": "0.1.0",
   "schema_version": 1,
   "release_notes": [
-    "Données du jeu à jour pour Star Citizen 4.10.2 (nouveaux vaisseaux, Constellation Mk IV et Mk V)",
-    "Nouvelle voix de secours hors ligne, nettement plus naturelle",
-    "« C'est quoi le Sovereign IP-10 ? » : fiche d'un composant de vaisseau à la voix",
-    "« Ferme l'overlay » ferme vraiment l'overlay, et « comment fabriquer… » donne la recette",
-    "Plus de réactions de pilotage quand tu es à pied ; une phrase d'attente quand la réponse tarde",
-    "Crafter un objet retire les matériaux de ton inventaire"
+    "Nouvel habillage Holo : overlay compact, overlay étendu, onglets et panneau de contrôle",
+    "Avatar animé : l'anneau montre si LYRA écoute, réfléchit ou parle",
+    "Vaisseaux aux noms du jeu (Constellation Mk IV), sans doublon",
+    "Mise à jour des données plus rapide, sans les appels FleetYards par vaisseau"
   ],
-  "published_at": "2026-10-11T21:10:44Z",
+  "published_at": "2026-10-12T22:02:56Z",
   "runtime": {
     "id": "py3.11.9-763eaf8fe64bd815",
     "url": "https://github.com/Azharran/lyra-releases/releases/download/runtime-py3.11.9-763eaf8fe64bd815/lyra-runtime-py3.11.9-763eaf8fe64bd815.zip",
