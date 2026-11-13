@@ -1,23 +1,36 @@
 {
-  "version": "0.6.4",
+  "version": "0.7.0",
   "channel": "stable",
-  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.6.4/lyra-0.6.4.zip",
-  "sha256": "f25b84003d2b52dd0aed4106f6b8641d391479b6be34cc01d3eb6ea1cf93ff7a",
-  "size": 237480955,
+  "download_url": "https://github.com/Azharran/lyra-releases/releases/download/v0.7.0/lyra-0.7.0.zip",
+  "sha256": "963f2f40ed5ecfe04e6036e1232cc2f17b9da21638b11a432c03171a36170419",
+  "size": 238434022,
   "mandatory": false,
   "min_version_required": "0.1.0",
   "schema_version": 1,
   "release_notes": [
-    "Nouvel habillage Holo : overlay compact, overlay étendu, onglets et panneau de contrôle",
-    "Avatar animé : l'anneau montre si LYRA écoute, réfléchit ou parle",
-    "Vaisseaux aux noms du jeu (Constellation Mk IV), sans doublon",
-    "Mise à jour des données plus rapide, sans les appels FleetYards par vaisseau"
+    "Overlay avec une vraie transparence (Electron), téléchargé une seule fois en arrière-plan puis utilisé au lancement suivant",
+    "Données mises à jour pour Star Citizen 4.10.3, touches du jeu suivies d'un patch à l'autre",
+    "Missions : celles que ton palier de réputation te permet de faire s'affichent en vert, les autres en ambre",
+    "Flotte : onglet refait, gestion de l'énergie, test de pénétration, loadout prévisionnel",
+    "Réputation : lecture de l'écran REP du mobiGlas (« scanne ma réputation »)",
+    "Hauling : LYRA propose une route de commerce pour ne pas voler à vide",
+    "Inventaire et raffinage : lecture d'écran plus précise",
+    "Overlay compact : nouvel habillage façon HUD, dernier lieu connu affiché",
+    "Voix : noms du jeu prononcés à l'anglaise, aucune touche envoyée si Star Citizen n'a pas le focus",
+    "« Trace une route vers » : la carte ne se referme plus avant que la route soit enregistrée",
+    "Nombreuses corrections en commerce, hauling et overlay"
   ],
-  "published_at": "2026-10-12T22:02:56Z",
+  "published_at": "2026-11-13T12:37:54Z",
   "runtime": {
     "id": "py3.11.9-763eaf8fe64bd815",
     "url": "https://github.com/Azharran/lyra-releases/releases/download/runtime-py3.11.9-763eaf8fe64bd815/lyra-runtime-py3.11.9-763eaf8fe64bd815.zip",
     "sha256": "24e7606da6c50eb7b59932b155ec60d2981be9bf0dd1f9225ac7d88b6f72d379",
     "size": 205150926
+  },
+  "electron": {
+    "id": "electron-33.2.1",
+    "url": "https://github.com/Azharran/lyra-releases/releases/download/electron-33.2.1/lyra-electron-33.2.1.zip",
+    "sha256": "02ac686171569f175b02cf69276105b7cabe17c48de7434c17c38827a805bd20",
+    "size": 115019899
   }
 }
